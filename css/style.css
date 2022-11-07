@@ -34,8 +34,14 @@ p {
   width: 65px;
 }
 
+.navbar-brand {
+  letter-spacing: 7px;
+  font-weight: bold;
+}
+
 .nav-item {
   margin: 0px 15px;
+  font-weight: bold;
 }
 
 /* Navigation dropdown menu */
@@ -79,6 +85,10 @@ p {
   max-width: 700px;
   color: white;
   text-align: center;
+}
+
+.display-4 {
+  color: beige;
 }
 
 /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
