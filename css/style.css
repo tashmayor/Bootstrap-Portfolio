@@ -59,7 +59,7 @@ body {
 
 /* Jumbotron  */
 .jumbotron {
-  background-image: url(/code.jpg);
+  background-image: url(../images/code.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
