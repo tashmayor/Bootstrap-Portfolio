@@ -150,11 +150,12 @@ footer {
   margin: 6px;
 }
 
-.contactme a {
+.contactme a:hover {
   color: beige;
   text-decoration: none;
   letter-spacing: 4px;
   font-size: 14px;
+  box-shadow: inset #54b3d6;
 }
 
 
